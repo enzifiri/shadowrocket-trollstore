@@ -20,7 +20,7 @@ BÖLÜM 1: TROLLSTORE KURULUMU
 --------------------------------------------------
 BÖLÜM 2: SHADOWROCKET YÜKLEME (.ipa)
 --------------------------------------------------
-(Not: Shadowrocket .ipa dosyasını internetten indirdiğinizi varsayıyoruz.)
+(Not: Shadowrocket .ipa dosyasını bu repodan indirebilirsin.)
 
 1. İndirdiğiniz Shadowrocket .ipa dosyasını "Dosyalar" uygulamasında bulun.
 2. Dosyanın üzerine tıklayın veya basılı tutup "Paylaş" ikonuna basın.
