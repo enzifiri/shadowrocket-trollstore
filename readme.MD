@@ -1,5 +1,8 @@
 # TROLLSTORE & SHADOWROCKET KURULUM REHBERİ (iOS 15+)
 
+Tıkla indir
+https://github.com/enzifiri/shadowrocket-trollstore/raw/refs/heads/main/932747118-2.2.69-decrypted.ipa
+
 Bu rehber, iOS 15 ve üzeri Jailbreak'li cihazlarda (iPhone 6s vb.) AppSync kullanmadan, en sağlıklı yöntem olan TrollStore ile Shadowrocket kurulumunu ve "Kill Switch" ayarlarını anlatır.
 
 --------------------------------------------------
