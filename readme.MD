@@ -3,6 +3,8 @@
 Tıkla indir
 https://github.com/enzifiri/shadowrocket-trollstore/releases/download/test/shadowrocket.ipa
 
+Tıkla indir
+https://github.com/enzifiri/shadowrocket-trollstore/releases/download/test/dawn.crx
 Bu rehber, iOS 15 ve üzeri Jailbreak'li cihazlarda (iPhone 6s vb.) AppSync kullanmadan, en sağlıklı yöntem olan TrollStore ile Shadowrocket kurulumunu ve "Kill Switch" ayarlarını anlatır.
 
 --------------------------------------------------
